@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freelance.valcr.site/sitemap.xml
